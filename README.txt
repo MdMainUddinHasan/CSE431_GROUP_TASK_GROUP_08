@@ -13,11 +13,13 @@ This is a group of 8 persons
 [18201137-------Tamanna Kaiser-----------UG]
 
 CSE431/712 Task 2 - Paper review ( https://www.aclweb.org/anthology/N19-1423.pdf)
-Paper title: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+Paper title:- BERT:Pre-training of Deep Bidirectional Transformers for Language Understanding
 
 CSE431/712 Task 3 - Paper Proposal 
+Porject Title :- Text-Based Emotion detection for monitoring criminal's behavior and activities.
 
 CSE431/712 Task 4 - Book Chapter Review
 (Book name:Speech and Language Processing. Daniel Jurafsky & James H. Martin. Copyright © 2020. All rights reserved. Draft of December 30, 2020.
 CHAPTER 7 Neural Networks and Neural Language Model)
+Book Chapter Link:-  https://web.stanford.edu/~jurafsky/slp3/7.pdf
 
